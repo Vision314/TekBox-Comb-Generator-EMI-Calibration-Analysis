@@ -1,9 +1,13 @@
 # TekBox-Comb-Generator-EMI-Calibration-Analysis
 
 ## Comb Generator Results on Line:
+RED - ATTEN-166
+BLUE - EMCO-3810
 <img width="1389" height="990" alt="image" src="https://github.com/user-attachments/assets/3cef6e6e-eb18-45f7-b3a3-5f78722aee9a" />
 
 ## Comb Generator Results on Neutral:
+RED - ATTEN-166
+BLUE - EMCO-3810
 <img width="1389" height="990" alt="image" src="https://github.com/user-attachments/assets/242a8a60-38af-4904-9ea3-3c864266cb03" />
 
 
