@@ -6,8 +6,12 @@ from a TekBox comb generator, comparing results between two LISNs:
 - **ATTEN-166**
 - **EMCO-3810**
 
-The data is evaluated across multiple comb frequencies and plotted over the full
-conducted emissions range.
+We are using the TekBox TBCG3-CN Comb Generator and a R&S HMSX Spectrum Analyzer
+- [https://www.tequipment.net/TekBox/TBCG3-CN/RF-Signal-Generators/?gad_source=1&gad_campaignid=273844573&gbraid=0AAAAAD_t4symNiZEkq6yK76Xw7-IpNplo&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzLLx5l3ZNJx3L68qjqosqC1xcshdVZO46D3W61NE7KSRGx1ibyyIHwaAjsxEALw_wcB](url)
+- [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://scdn.rohde-schwarz.com/ur/pws/dl_downloads/dl_common_library/dl_brochures_and_datasheets/pdf_1/service_support_30/HMS-X_bro_en_3607-0181-32_v0300.pdf](url)
+
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/547a04ce-7a85-4ab6-8e45-396cc8848371" /> <img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/db559966-056a-4bad-8f14-d53a7aa382f7" />
+
 
 ---
 
